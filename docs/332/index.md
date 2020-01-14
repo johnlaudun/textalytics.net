@@ -1,4 +1,4 @@
-<p><img src="http://johnlaudun.org/teaching/img/storyteller.gif" alt="Block print of a Storyteller and His Audience" title="The Storyteller" width="500px" align="center"/></p>
+<!-- <p><img src="http://johnlaudun.org/teaching/img/storyteller.gif" alt="Block print of a Storyteller and His Audience" title="The Storyteller" width="500px" align="center"/></p> -->
 
 # Introduction to Folklore
 
@@ -7,7 +7,7 @@ ENGL 332-001, MWF 11:00 AM - 11:50 AM, HLG 321
 Pr. John Laudun, HLG 356, Tuesdays 9-12 & by appointment, laudun@louisiana.edu
 
 ## Description
-This iteration of the Introduction to Folklore course is focused on folk narrative. Participants in the course will encounter diverse definitions of and theories about narrative, examine various forms of narrative (with a focus on traditional genres of folklore), collect and document instances of folk narrative, and produce an analytical research report on those materials. 
+This iteration of the Introduction to Folklore course is focused on folk narrative. Participants in the course will encounter diverse definitions of and theories about narrative, examine various forms of narrative (with a focus on traditional genres of folklore), collect and document instances of folk narrative, and produce an analytical research report on those materials.
 
 
 ##Objectives
@@ -17,7 +17,7 @@ Participants in this course will learn how to read scholarly and scientific defi
 
 ## Requirements
 
-As an upper-division course, this course assumes all participants are already familiar with accessing and using scholarly and scientific materials in both print and on-line forms. If not, then your first course of action is to schedule a library tour and/or take a tutorial. (See Resources for links.) It also assumes you are familiar with the University’s Code of Conduct, and you are familiar with being an adult. This class is conducted as if we are are all professionals engaged in a mutually rewarding endeavor to which all of us contribute in order to succeed. That means coming prepared, not being distracted, and being engaged with not only the course materials but also each other. 
+As an upper-division course, this course assumes all participants are already familiar with accessing and using scholarly and scientific materials in both print and on-line forms. If not, then your first course of action is to schedule a library tour and/or take a tutorial. (See Resources for links.) It also assumes you are familiar with the University’s Code of Conduct, and you are familiar with being an adult. This class is conducted as if we are are all professionals engaged in a mutually rewarding endeavor to which all of us contribute in order to succeed. That means coming prepared, not being distracted, and being engaged with not only the course materials but also each other.
 
 Running counter to the *in loco parentis* impulse of many other dimensions of the university, this course has a limited set of tasks with a grading framework that attempts to be as clear, and simple, as possible. For this semester, the overall schedule of graded assignments are:
 
@@ -29,7 +29,7 @@ Exams	                           	| 20% of overall grade
 Text Collection (This documentation be complete and recordings turned in and logged.)						    | 25% of overall grade
 Research Report						| 25% of overall grade
 
-From the table, you can see that two most important outputs are the text collection and the research report. For the purposes of scheduling, it should be noted that the text collection is due at the beginning of April and the research report on the last day of classes. (This latter deadline is quite strict for reasons external to the course.) 
+From the table, you can see that two most important outputs are the text collection and the research report. For the purposes of scheduling, it should be noted that the text collection is due at the beginning of April and the research report on the last day of classes. (This latter deadline is quite strict for reasons external to the course.)
 
 
 ## Texts
@@ -45,7 +45,7 @@ Please note that the list of books to be purchased is currently a work in progre
 
 ## Resources
 
-In addition to the texts we encounter in class, there are other resources both in folklore studies and in narratology that may be useful to those either in need of a bit more discussion or seeking to expand their understanding. 
+In addition to the texts we encounter in class, there are other resources both in folklore studies and in narratology that may be useful to those either in need of a bit more discussion or seeking to expand their understanding.
 
 JSTOR offers a variety of tutorials: some are [simply slides or texts][] that you can read on your own and others are [interactive tutorials][] hosted on their own Moodle setup. (Registration is required, but once you are registered, you’ll discover a number of short videos as well as interactive exercises. If you allocate 20 minutes per session for a few days, you’ll learn something.)
 
@@ -64,7 +64,7 @@ A map of this floor is posted near the elevator marking the evacuation route and
 
 Do not hesitate. Immediately look around where you are sitting and get the name and number of two responsible looking people. Not the cute one — because getting his or her number that way would be just creepy, but someone who has at least your level of maturity, if not higher. Write that information below so that when you do have to miss class, then you can contact them about what you missed.
 
-Contact: 
+Contact:
 
 Contact:
 
@@ -72,4 +72,4 @@ Contact:
 ## Schedule
 
 1. Course Introduction
-2. Folklore Theory Basics: Competence and Performance (Text and Context). Read: Burke 1941. 
+2. Folklore Theory Basics: Competence and Performance (Text and Context). Read: Burke 1941.

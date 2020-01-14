@@ -5,7 +5,8 @@
 
 ## Course Logistics
 Meetings: MW(F) 11:00-11:50, HLG 122.  
-Instructor: Pr. John Laudun. HLG 356. Tuesdays 9:00 – 12:00. 482-5493. laudun@louisiana.edu.
+Instructor: Pr. John Laudun  
+Office & Hours: HLG 356. MW 9:00 – 10:30, 2:30-3:00, and Tuesday mornings by appointment. 482-5493. laudun@louisiana.edu.
 
 
 

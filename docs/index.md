@@ -1,4 +1,4 @@
-# Teaching
+![Bug and Path](img/bug_and_path.png)
 
 This separate, dedicated teaching site is designed so that students can access the materials they need no matter where they are. While I try to make as much as possible available publicly, both for students in my courses as well as to interested others, some course materials must remain behind the university paywall (aka [Moodle][]) due to copyright restrictions. (I take fair use seriously.) If you are a visiting student or scholar and would like access to those materials, please get in touch with [me][].
 

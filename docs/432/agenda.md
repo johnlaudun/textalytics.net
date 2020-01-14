@@ -1,4 +1,6 @@
-title: 432|Agenda
+---
+title: 432 Agenda
+---
 
 # Course Agenda
 

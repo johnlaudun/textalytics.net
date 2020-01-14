@@ -19,4 +19,8 @@ nav:
         - Recording Hardware and Software: guides/recording.md
 
 theme:
-    name: bootstrap
+    name: null
+    custom_dir: 'julienne/'
+
+markdown_extensions:
+    - smarty
