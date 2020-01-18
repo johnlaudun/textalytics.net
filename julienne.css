@@ -20,7 +20,7 @@
 /* LAYOUT ================================== */
 
 
-#wrapper {
+#page {
   /* float: center; */
   margin: 1em;
   width: 950px;
@@ -58,7 +58,7 @@
 
 body {
     /* font-family: 'Alegreya', 'Hoefler Text', Georgia, serif; */
-    font-family: "Avenir Next", Verdana, sans-serif;
+    font-family: 'Alegreya Sans', sans-serif, "Avenir Next", Helvetica, sans-serif;
     font-size: 1em;
     background-color: ivory;
     color: black;
@@ -77,37 +77,12 @@ p#pagetitle {
     font-weight: normal;
 }
 
-#toc ul {
-    /* border-top: 1px dotted;
-    border-bottom: 1px dotted; */
-    padding-left: 2em;
-    /* border-left: 1px dotted; */
-    margin-right: 250px;
-    /* border-right: 1px dotted; */
-}
-#toc li {
-    text-transform: uppercase;
-    text-decoration: none;
-    list-style-type: none;
-    line-height: 1.5em;
-    font-size: 0.75em;
-    /* letter-spacing: 2px; */
-    padding-left: 1em;
-    text-indent: -1em;
-}
 
-#toc li:before {
-  content: "+";
-  padding-right: 5px;
-}
 
-#toc a {
-    font-weight: normal;
-}
 
 h2 {
     font-size: 1em;
-    font-weight: 700;
+    font-weight: 900;
     text-transform: uppercase;
     padding-top: 1em;
 }
@@ -125,7 +100,7 @@ hr {
 a {
     color: black;
     text-decoration: none;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 a:hover {
@@ -219,30 +194,46 @@ p.logo {
     line-height: 1.5em;
 }
 
-div.sidebar ul li.toctree-l1 > a {
-    font-size: 120%;
+.toc ul {
+    /* border-top: 1px dotted;
+    border-bottom: 1px dotted; */
+    padding-left: 2em;
+    /* border-left: 1px dotted; */
+    margin-right: 250px;
+    /* border-right: 1px dotted; */
+}
+.toc li {
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 1.5em;
+    font-size: 0.75em;
+    padding-left: 1em;
+    text-indent: -1em;
+    font-weight: bold;
 }
 
-div.sidebar ul li.toctree-l2 > a {
-    font-size: 110%;
+.toc_child li {
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 1.5em;
+    font-size: 0.75em;
+    /* letter-spacing: 2px; */
+    padding-left: 1em;
+    text-indent: 0em;
 }
 
-div.sidebar input {
-    border: 1px solid #CCC;
-    font-family: 'Hoefler Text', Georgia, serif;
-    font-size: 1em;
+.toc li:before {
+  content: "+";
+  padding-right: 5px;
 }
 
-div.sidebar hr {
-    border: none;
-    height: 1px;
-    color: #AAA;
-    background: #AAA;
-
-    text-align: left;
-    margin-left: 0;
-    width: 50%;
+.toc a {
+    font-weight: normal;
 }
+
+
 
 /* TEXT ================================== */
 
