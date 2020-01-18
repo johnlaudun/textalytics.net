@@ -4,13 +4,13 @@ site_url: http://textalytics.net/
 nav:
     - Home: index.md
     - Courses:
-        - 115: 115/index.md
-        - 332: 332/index.md
-        - 335: 335/index.md
-        - 432: 432/index.md
-        - 531: 531/index.md
-        - 632: 632/index.md
-        - DH: dh/index.md
+        - 115: 115.md
+        - 332: 332.md
+        - 335: 335.md
+        - 432: 432.md
+        - 531: 531.md
+        - 632: 632.md
+        # - Digital Humanities: dh.md
     - Guides:
         - Accessing databases: guides/access.md
         - Chicago Author-Date Citations: guides/cad.md
