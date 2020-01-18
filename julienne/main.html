@@ -30,29 +30,38 @@
 
     {% block extrahead %}{% endblock %}
   {% endblock %}
+
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700,900&display=swap" rel="stylesheet">
+
   <!-- <link href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700&display=swap" rel="stylesheet"> -->
 
 </head>
 <body>
 
-<div id="wrapper">
+<div id="page">
 
     <div id="navigation">
           <p class="logo">
-              <a href="">{{config.site_name}}</a>
+              <a href="{{config.site_url}}">{{config.site_name}}</a>
           </p>
 
-
-          {% if nav|length>1 %}
-              <ul class = "nav1">
-              {% for nav_item in nav %}
-                      <li class = "nav1">
-                          <a href="{{ nav_item.url|url }}">
-                              {{ nav_item.title }}</a></li>
-              {% endfor %}
-              </ul>
-          {% endif %}
-
+          <h2>{{page.title}}</h2>
+            <ul class="toc">
+            {% for toc_item in page.toc %}
+                <li class="toc_item">
+                    <a href="{{ toc_item.url }}">
+                        {{ toc_item.title }}
+                    </a>
+                </li>
+                {% for toc_item in toc_item.children %}
+                    <li class="toc_child">
+                        <a href="{{ toc_item.url }}">
+                            {{ toc_item.title }}
+                        </a>
+                    </li>
+                {% endfor %}
+            {% endfor %}
+            </ul>
 
       </div> <!-- navigation -->
 
@@ -79,7 +88,7 @@
 
 
 
-</div>  <!-- document -->
+</div>  <!-- page -->
 
 </body>
 </html>

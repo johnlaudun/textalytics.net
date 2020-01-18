@@ -6,7 +6,7 @@ These two logics, rationalism and nationalism, so govern our thinking that we ca
 
 What we will be tracking is a slow shift in focus:
 
-* From the origins of ideas and forms; 
+* From the origins of ideas and forms;
 * Through the development and spread of ideas and forms, at first in cultural evolution and later in history;
 * To the uses of these ideas and forms.
 
@@ -23,6 +23,6 @@ The Brothers Grimm were among those whom Herder inspired. But the Grimms were no
 
 The Grimms, and most of those they inspired, virtually ignored the actual “life” of the lore. Fieldwork standards at that time were very loose — merely collecting, not ethnography; there was no idea of adhering to the spoken language of tale-tellers, of valuing the stories as actually told, of trying to observe actual storytelling events. Rather, the standard practice was to rewrite texts — to “improve” them for a literate readership.
 
-For those less familiar with European history in general and European intellectual history in particular, Christof Koch's review of George Makari's _Soul Machine: The Invention of the Modern Mind_ is a thumbnail sketch of the developments in Western European philosophy that led up to our current moment of understanding human consciousness in the particular way we do: ["Constructing the Modern Mind"](https://www.scientificamerican.com/article/constructing-the-modern-mind/). 
+For those less familiar with European history in general and European intellectual history in particular, Christof Koch's review of George Makari's _Soul Machine: The Invention of the Modern Mind_ is a thumbnail sketch of the developments in Western European philosophy that led up to our current moment of understanding human consciousness in the particular way we do: ["Constructing the Modern Mind"](https://www.scientificamerican.com/article/constructing-the-modern-mind/).
 
 Koch's sketch leads us right into Bauman and Briggs' _Voices of Modernity_.

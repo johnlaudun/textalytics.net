@@ -1,4 +1,5 @@
 site_name: Textalytics
+site_url: http://textalytics.net/
 
 nav:
     - Home: index.md
