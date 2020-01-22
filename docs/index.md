@@ -11,9 +11,18 @@ This separate, dedicated teaching site is designed so that students can access t
 * [English 332](332.md): Introduction to Folk Narrative
 <!-- * [English 335](335/index.md): Louisiana Folklore -->
 * [English 432](432.md): American in Legend Online and Off
-* [English 531](531/index.md): Seminar in Narrative Studies
+* [English 531](531.md): Seminar in Narrative Studies
 * [English 632](632.md): Proseminar in Folklore Theory
 
+## Future Courses
+
+The courses listed below are ones I imagine teaching in a context where both close and distant reading, where both computation and cogitation, feature equally in the treatment of texts.
+
+* [Introduction to Text Analytics](c200-textanayltics.md)
+* [The Spread of (Mis)Information](c400-infospread.md)
+* [What We Think When We Think about Machine Thinking](c300-ai.md)
+
+While I have never taught these courses as they are sketched out here, they are based on units or features of courses or workshops I have conducted.
 
 ## Guides and Statements
 

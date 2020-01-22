@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <title>The Spread of (Mis)Information &mdash; Textalytics</title>
+
+    <link rel="shortcut icon" href="../img/favicon.ico">
+    <link rel="stylesheet" href="../julienne.css" type="text/css">
+
+    
+      <script src="../search/main.js"></script>
+    
+
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9">
+
+    
+  
+
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700,900&display=swap" rel="stylesheet">
+
+  <!-- <link href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700&display=swap" rel="stylesheet"> -->
+
+</head>
+<body>
+
+<div id="page">
+
+    <div id="navigation">
+          <p class="logo">
+              <a href="http://textalytics.net/">Textalytics</a>
+          </p>
+
+          <h2>The Spread of (Mis)Information</h2>
+            <ul class="toc">
+            
+                <li class="toc_item">
+                    <a href="#the-spread-of-misinformation">
+                        The Spread of (Mis)Information
+                    </a>
+                </li>
+                
+                    <li class="toc_child">
+                        <a href="#description-design-goals">
+                            Description, Design, Goals
+                        </a>
+                    </li>
+                
+                    <li class="toc_child">
+                        <a href="#requirements">
+                            Requirements
+                        </a>
+                    </li>
+                
+                    <li class="toc_child">
+                        <a href="#agenda">
+                            Agenda
+                        </a>
+                    </li>
+                
+            
+            </ul>
+
+      </div> <!-- navigation -->
+
+
+    <div id = "text">
+
+        <!-- <div><h1 id="pagetitle">The Spread of (Mis)Information</h1></div> -->
+
+
+
+            <h1 id="the-spread-of-misinformation">The Spread of (Mis)Information</h1>
+<p><strong>Instructor</strong>: John Laudun</p>
+<h2 id="description-design-goals">Description, Design, Goals</h2>
+<p>Spreading dynamics can be discerned in virtually all real-world networks and systems, from infectious diseases in human contact networks to memes and news, fake or not, on social networks. A fundamental question across a range of disciplines is how such dynamics are shaped by the structure of the networks on which they occur. Of particular interest is viral spreading, where content&ndash;whether it be an orally transmitted rumor or a digitally transmitted text, image, or video&ndash;sweeps through a population by being frequently shared between individuals, leading to widespread adoption. In this course we will examine such cascades, including whether  the likelihood, size, and speed of such cascades depends as much on the nodes through which they pass (people) as the topology of the network as well as what material is passing (texts) through the nodes to instantiate the cascade.</p>
+<p>This course offers a survey of perspectives on the spread of ideas through networks, with a principal focus on online networks. The principle behind that choice is that the latter not only amplify the spread of ideas but also offer more readily available data collection: the goal of the course is for participants to track a cascade of their own choosing, attempting to determine the topology of its course and the nature of the network which it reveals and, at the same time, instantiates. </p>
+<h2 id="requirements">Requirements</h2>
+<p>In addition to the required texts listed in the agenda below, participants are expected to be comfortable with  Python and have a working installation on their computer. Because assignments for this course are hosted on GitHub for Education, participants will need to have a working knowledge of Git and have a GitHub account. </p>
+<p>Mastery of the materials and methods for this course is assessed along the following lines:</p>
+<p><strong>Participation</strong> (20%) requires active engagement with the course materials through discussions and in-class activities, some of which will, I hope, be reasonably fun and also demonstrative in terms of information <em>flows</em>. </p>
+<p><strong>Exams</strong> (30%). There are three of them. They come at the expected intervals and are entirely about insuring that you have mastered the contents of the material and can apply it to the examples provided in the exams.</p>
+<p><strong>Collection</strong> (20%). Getting data is work; getting good data is hard work. But data is so important that we set aside time in the course, and reward work on it accordingly.</p>
+<p><strong>Project</strong> (30%). The course project is not a monolithic essay&ndash;though it can be if you decide that&rsquo;s really what you want to do. Instead, it is a portfolio, in which, yes, writing does feature, but also a (well commented) code base, a variety of outputs (including Jupiter notebook pages), and various visualizations (or auralizations or 3D realizations). The contents are ultimately up to each participant and are negotiated with the course instructor (me).</p>
+<h2 id="agenda">Agenda</h2>
+<h3 id="foundations">Foundations</h3>
+<p>We begin our course with a bit of an excursion: we travel back in time to understand how the printing press changed the very way we think about facts and ideas and even the way we think those things get distributed and, just as importantly, authenticated. An episode from a rather dated BBC series, <em>The Day the Universe Changed</em>, does a rather good job of putting us inside the mind of a medieval person, and then demonstrating how print changed, well, everything. We watch the fourth episode, &ldquo;A Matter of Fact.&rdquo; Then we examine how texts work&ndash;because if we consider them only to be referential, then we have entirely missed how they work. As we will explore: texts give us the power to name situations or to transact social identity. </p>
+<p>Burke, Kenneth. 1941. Literature as Equipment for Living. In <em>The Philosophy of Literary Form</em>, 293-304. University of California Press. <a href="../texts/Burke_1941.pdf">URL</a>.</p>
+<p>Bauman, Richard.  1971. Differential Identity and the Social Base of Folklore.  <em>Journal of American Folklore</em> 84/ 331: 31-41. doi:10.2307/539731.</p>
+<p>Kirshenblatt-Gimblett, Barbara. 1975. A Parable in Context: a Social Interactional Analysis of Storytelling Performance. In <em>Performance and Communication</em>, 105-130. Ed. Dan Ben-Amos and Kenneth Goldstein. Mouton. doi:10.1515/9783110880229.105.</p>
+<p>Bateson, Gregory. 1972. <em>Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology</em>. University of Chicago Press. (See the essays: “A Theory of Play and Fantasy” and “Style, Information, and Grace.”)</p>
+<h3 id="the-transform">The Transform</h3>
+<p>Our current era is often called the digital era, and while it is, it is not the case that it was unprecedented or unheralded. After the oral-to-print transition, many societies, and their various cultures, underwent a media transition. Like print before it, media was produced by the few to distribution by the many. It did not, however, demand an additional competence like literacy. Instead, audio media like radio and records and video media like, first, film, and then later television, were in many ways consumable without any further training. While we should never assume that any representation is like real life, these media were, and are, fairly good at obscuring such boundaries, and how they do so is worth our attention.</p>
+<p>Bateson, Gregory. 1972. Steps to an <em>Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology</em>. Chicago, Illinois: University of Chicago Press. (See the essays: “A Theory of Play and Fantasy” and “Style, Information, and Grace.”)</p>
+<p>Carpenter, Edmund, and Marshall McLuhan. 1956. “The New Languages.” Chicago Review 10(1): 46–52. DOI: 10.2307/25293194. <a href="https://www.jstor.org/stable/25293194">JSTOR</a>.</p>
+<p>McLuhan, Marshall. 1959. “Myth and Mass Media.” <em>Daedalus</em> 88(2): 339–48. <a href="https://www.jstor.org/stable/20026500">JSTOR</a>.</p>
+<p>Ong, Walter J. 1971. “The Literate Orality of Popular Culture Today.” In <em>Rhetoric, Romance, and Technology: Studies in the Interaction of Expression and Culture</em>. Cornell University Press. <a href="https://www.jstor.org/stable/10.7591/j.cttq43nf">JSTOR</a>.</p>
+<p>This Youtube video makes a good case that <a href="https://medium.com/whither-news/what-i-learned-at-vidcon-168e26f34970#.cuwp5fl0a">It&rsquo;s not about the content</a>.</p>
+<h3 id="cascades">Cascades</h3>
+<p>The first occurrence of &ldquo;fake news&rdquo; was in 1975, in an essay by two folklorists exploring how ideas and stories transited through social groups, especially those with divergent folk groups within them. It would be the first of </p>
+<p>Dégh, Linda, and Endre Vázsonyi. 1975. The Hypothesis of Multi-Conduit Transmission in Folklore. Mouton. <a href="https://moodle.louisiana.edu/mod/resource/view.php?id=1157787">Moodle</a>.</p>
+<p>Granovetter, Mark. 1978. “Threshold Models of Collective Behavior.” <em>American Journal of Sociology</em> 83(6): 1420–43. <a href="https://www.jstor.org/stable/2778111">JSTOR</a>.</p>
+<p>Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. 1992. “A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades.” Journal of Political Economy 100(5): 992–1026. <a href="https://www.jstor.org/stable/2138632">JSTOR</a>.</p>
+<h3 id="contents">Contents</h3>
+<p>Dorst, John. 1990. Tags and Burners, Cycles and Networks: Folklore in the Telectronic Age. <em>Journal of Folklore Research</em> 27(3): 179–90. <a href="https://www.jstor.org/stable/3814251">JSTOR</a>.</p>
+<p>In the essay, Dorst references the film <em>Style Wars</em>. There is both an official <a href="https://www.youtube.com/watch?v=4ReyiYUPsEs">Youtube video</a>, as well as a range of <a href="https://www.youtube.com/results?search_query=style+wars">unofficial videos</a>, one of which seems to include <a href="https://www.youtube.com/watch?v=4u5OY0LgE50">outtakes</a> from the film.</p>
+<p>Limor Shifman, Hadar Levy, Mike Thelwall. 2014. Internet Jokes: The Secret Agents of Globalization? <em>Journal of Computer-Mediated Communication</em> 19/4,1: 727–743. <a href="https://doi.org/10.1111/jcc4.12082">URL</a>.</p>
+<p>Shifman has also worked on <em>memes</em>: [this review][] will tell you more, and you can follow the leads to get access to the text. Folklorists have long worked on memes, and you might consider the results of [this search][]. There&rsquo;s also a video of Shifman giving a talk on <a href="https://www.youtube.com/watch?v=OHwPAzCfjm8&amp;feature=youtu.be&amp;fbclid=IwAR3LLwdLC-VXKivmlGZEi_LmSf-FpjzNzxatCR1AyUF6OfqTxAc4Vay5fAM">Internet Jokes</a>.</p>
+<p>Blank, Trevor J. 2015. Faux Your Entertainment: Amazon.com Product Reviews as a Locus of Digital Performance. <em>Journal of American Folklore</em> 128(509), 286-297. <a href="https://www.muse.jhu.edu/article/589181">Project Muse</a>.</p>
+<p>Folklore Lynne McNeill explains why <a href="https://www.youtube.com/watch?v=PBDJ2UJpKt4&amp;feature=youtu.be&amp;fbclid=IwAR2oH3PFzUoiIVGqZAZd1rCD4tJgR73HMX7xuKeKfUqkTIrjEdBuE9zFVDM">Folklore doesn&rsquo;t meme what you think it memes</a> in this TEDxUSU talk.</p>
+<h3 id="fake-news">Fake News</h3>
+<p>Temming, Maria. 2018. People are bad at spotting fake news. Can computer programs do better? <em>Science News</em> (July 26). <a href="https://www.sciencenews.org/article/can-computer-programs-flag-fake-news">URL</a>.</p>
+<p>Murphy, G., Loftus, E. F., Grady, R. H., Levine, L. J., &amp; Greene, C. M. 2019. False Memories for Fake News During Ireland’s Abortion Referendum. <em>Psychological Science</em> 30(10): 1449–1459. <a href="https://doi.org/10.1177/0956797619864887">DOI</a>.</p>
+<p>Evans, Timothy H. 2018. The Bowling Green Massacre. Journal of American Folklore 131(522): 460-470. <a href="https://www.muse.jhu.edu/article/707452">Project Muse</a>.</p>
+<p>The entire issue of the <em>Journal of American Folklore</em>, of which Evans&rsquo; essay is a part, was focused on fake news: <a href="https://muse.jhu.edu/issue/39305">JAF 131/522</a>.</p>
+<h3 id="mining">Mining</h3>
+<p>In this section of the course, we use Python tools to identify pages that provide links, be they web searches or a cluster of forum posts, that we then scrape using modules like . In addition, we also trial a number of modules that gather Twitter posts, such as <code>Tweepy</code>. We will then explore how to use a library like <code>BeautifulSoup</code> to break pages into only the pieces we need and store the data in useful forms like <code>csv</code> (which we will access both natively and using <code>pandas</code>) as well as <code>json</code>. We will use Jupyter notebooks to document our explorations and for sharing with others, and through these notebooks we will explore effective commenting practices and how to turn our exploratory pieces of code into an effective code base that can be used from the command line or as part of a larger stack that gets deployed in a production environment. (While the focus of this course is on data analysis and not data engineering, that doesn&rsquo;t mean we shouldn&rsquo;t ignore the connections between the two.)</p>
+<h3 id="analysis">Analysis</h3>
+<p>Brady, William J., Ana P. Gantman, and Jay J. Van Bavel. 2019. Attentional Capture Helps Explain Why Moral and Emotional Content Go Viral. <em>PsyArXiv</em>  January 15. doi:10.31234/osf.io/zgd29. </p>
+<p>And here is the study as it appeared in <em>Scientific American</em>:</p>
+<p>Gantman, Ana P. , William J. Brady, Jay Van Bavel. 2019. Why Moral Emotions Go Viral Online: 
+A study of Twitter demonstrates the attentional power of certain words. <em>Scientific American</em> (August 20). <a href="https://www.scientificamerican.com/article/why-moral-emotions-go-viral-online/">URL</a>.</p>
+            <div id="footer">
+            <table id = "copyright">
+                <tr class = "copyright">
+                    <td class = "copyright">
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a></td>
+                <td> <p class = "copyright"><em>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons <br />Attribution-ShareAlike 4.0 International License</a>.</em></p></td>
+                </tr>
+            </table>
+            </div>  <!--  footer -->
+
+      </div> <!-- text -->
+
+
+
+
+</div>  <!-- page -->
+
+</body>
+</html>
