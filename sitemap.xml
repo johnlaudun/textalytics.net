@@ -66,12 +66,32 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>http://textalytics.net/guides/noted/</loc>
+     <lastmod>2020-01-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>http://textalytics.net/guides/paragraphs/</loc>
      <lastmod>2020-01-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>http://textalytics.net/guides/says_does/</loc>
+     <lastmod>2020-01-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://textalytics.net/guides/summaries/</loc>
+     <lastmod>2020-01-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>http://textalytics.net/guides/recording/</loc>
+     <lastmod>2020-01-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://textalytics.net/guides/writing/</loc>
      <lastmod>2020-01-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
