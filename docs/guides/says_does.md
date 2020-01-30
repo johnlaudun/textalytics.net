@@ -18,4 +18,8 @@ More importantly, writers can use this method of analyzing texts to assess their
 ## Examples
 
 | ¶ | SAYS | DOES |
-| 1 | That the writer is going to the laundry room and will be there for a while. | Sets the scene both physically or emotionall.
+|---|------|------|
+| 1 | That the writer is going to the laundry room and will be there for a while. | Sets the scene both physically or emotionally. |
+| 2 | that the writer puts clothes in the washing machine and thinks about her boyfriend   | prepares the reader for alternate description of activities and reflection |
+| 3 | that the writer would like to be swept offer her feet by someone rich and handsome | makes a bit of fun of the writer's reflections; shows that she doesn't take herself too seriously |
+| 4 | the writer continues with doing what she has to do to get the laundry done but is interrupted (and embarrassed) by someone she doesn't like and by someone who gives her a chalce to reflect amusingly on male behavior  | describes the actual world the writer is in and shows how she reacts to it |
