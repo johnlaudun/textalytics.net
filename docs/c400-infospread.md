@@ -1,28 +1,28 @@
 # The Spread of Mis|Dis|Information
 
-#### John Laudun
+##### John Laudun
 
 ## Description, Design, Goals
 
 Spreading dynamics can be discerned in virtually all real-world networks and systems, from infectious diseases in human contact networks to memes and news, fake or not, on social networks. A fundamental question across a range of disciplines is how such dynamics are shaped by the structure of the networks on which they occur. Of particular interest is viral spreading, where content--whether it be an orally transmitted rumor or a digitally transmitted text, image, or video--sweeps through a population by being frequently shared between individuals, leading to widespread adoption. In this course we will examine such cascades, including whether  the likelihood, size, and speed of such cascades depends as much on the nodes through which they pass (people) as the topology of the network as well as what material is passing (texts) through the nodes to instantiate the cascade.
 
-This course offers a survey of perspectives on the spread of ideas through networks, with a principal focus on online networks. The principle behind that choice is that the latter not only amplify the spread of ideas but also offer more readily available data collection: the goal of the course is for participants to track a cascade of their own choosing, attempting to determine the topology of its course and the nature of the network which it reveals and, at the same time, instantiates. 
+This course offers a survey of perspectives on the spread of ideas through networks, with a principal focus on online networks. The principle behind that choice is that the latter not only amplify the spread of ideas but also offer more readily available data collection: the goal of the course is for participants to track a cascade of their own choosing, attempting to determine the topology of its course and the nature of the network which it reveals and, at the same time, instantiates.
 
 The goal of this course is to understand how information spreads through networks: we will focus on accurate *description* with some exploration of possibilities for *prescription*--certainly the market of being able to guarantee something going viral is quite large, and while this course is not that kind of course, one of the arenas we will chart are these imagined paths to popularity, fame, and fortune.
 
 ## Texts
 
-Most of our texts are drawn from scholarly and scientific journals or well-established periodicals that cover our topic among others. 
+Most of our texts are drawn from scholarly and scientific journals or well-established periodicals that cover our topic among others.
 
 Berger, Jonah. 2016. *Contagious*. Simon and Schuster.
 
 ## Requirements
 
-In addition to the required texts listed in the agenda below, participants are expected to be comfortable with  Python and have a working installation on their computer. Because assignments for this course are hosted on GitHub for Education, participants will need to have a working knowledge of Git and have a GitHub account. 
+In addition to the required texts listed in the agenda below, participants are expected to be comfortable with  Python and have a working installation on their computer. Because assignments for this course are hosted on GitHub for Education, participants will need to have a working knowledge of Git and have a GitHub account.
 
 Mastery of the materials and methods for this course is assessed along the following lines:
 
-**Participation** (20%) requires active engagement with the course materials through discussions and in-class activities, some of which will, I hope, be reasonably fun and also demonstrative in terms of information *flows*. 
+**Participation** (20%) requires active engagement with the course materials through discussions and in-class activities, some of which will, I hope, be reasonably fun and also demonstrative in terms of information *flows*.
 
 **Exams** (30%). There are three of them. They come at the expected intervals and are entirely about insuring that you have mastered the contents of the material and can apply it to the examples provided in the exams.
 
@@ -34,7 +34,7 @@ Mastery of the materials and methods for this course is assessed along the follo
 
 ### Foundations
 
-We begin our course with a bit of an excursion: we travel back in time to understand how the printing press changed the very way we think about facts and ideas and even the way we think those things get distributed and, just as importantly, authenticated. An episode from a rather dated BBC series, *The Day the Universe Changed*, does a rather good job of putting us inside the mind of a medieval person, and then demonstrating how print changed, well, everything. We watch the fourth episode, "A Matter of Fact." Then we examine how texts work--because if we consider them only to be referential, then we have entirely missed how they work. As we will explore: texts give us the power to name situations or to transact social identity. 
+We begin our course with a bit of an excursion: we travel back in time to understand how the printing press changed the very way we think about facts and ideas and even the way we think those things get distributed and, just as importantly, authenticated. An episode from a rather dated BBC series, *The Day the Universe Changed*, does a rather good job of putting us inside the mind of a medieval person, and then demonstrating how print changed, well, everything. We watch the fourth episode, "A Matter of Fact." Then we examine how texts work--because if we consider them only to be referential, then we have entirely missed how they work. As we will explore: texts give us the power to name situations or to transact social identity.
 
 Burke, Kenneth. 1941. Literature as Equipment for Living. In _The Philosophy of Literary Form_, 293-304. University of California Press. [URL](texts/Burke_1941.pdf).
 
@@ -48,7 +48,7 @@ Bateson, Gregory. 1972. Style, Information, and Grace. _Steps to an Ecology of M
 
 Our current era is often called the digital era, and while it is, it is not the case that it was unprecedented or unheralded. After the oral-to-print transition, many societies, and their various cultures, underwent a media transition. Like print before it, media was produced by the few to distribute to the many. It did not, however, demand an additional competence like literacy. Instead, audio media like radio and records and video media like, first, film, and then later television, were in many ways consumable without any further training. While we should never assume that any representation is like real life, these media were, and are, fairly good at obscuring such boundaries, and how they do so is worth our attention.
 
-We begin with an examination of print virality: the [Viral Texts Project](https://web.northeastern.edu/nulab/viral-texts/). 
+We begin with an examination of print virality: the [Viral Texts Project](https://web.northeastern.edu/nulab/viral-texts/).
 
 Carpenter, Edmund, and Marshall McLuhan. 1956. “The New Languages.” Chicago Review 10(1): 46–52. DOI: 10.2307/25293194.
 
@@ -70,7 +70,7 @@ Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. 1992. “A Theory of Fad
 
 ### Contents
 
-How something cascades through a network is determined both by the individuals involved as well the material cascading through it. A lot of the material we will consider has a somewhat older name, folklore. Folklorist Lynne McNeill explains why [Folklore doesn't meme what you think it memes](https://www.youtube.com/watch?v=PBDJ2UJpKt4&feature=youtu.be&fbclid=IwAR2oH3PFzUoiIVGqZAZd1rCD4tJgR73HMX7xuKeKfUqkTIrjEdBuE9zFVDM) in this TEDxUSU talk. 
+How something cascades through a network is determined both by the individuals involved as well the material cascading through it. A lot of the material we will consider has a somewhat older name, folklore. Folklorist Lynne McNeill explains why [Folklore doesn't meme what you think it memes](https://www.youtube.com/watch?v=PBDJ2UJpKt4&feature=youtu.be&fbclid=IwAR2oH3PFzUoiIVGqZAZd1rCD4tJgR73HMX7xuKeKfUqkTIrjEdBuE9zFVDM) in this TEDxUSU talk.
 
 A good deal of the work done by folklorists in this regard has focused on legends. The famed _Funk & Wagnalls Standard Dictionary of Folklore, Mythology, and Legend_ had the following to say about legend in 1949:
 
@@ -90,7 +90,7 @@ Stubbersfield, Joseph, and Jamshid Tehrani. 2013. Expect the Unexpected? Testing
 
 Weiskott, Eric. 2016. Before 'Fake News' Came False Prophecy. _The Atlantic (December 27): [URL](https://www.theatlantic.com/politics/archive/2016/12/before-fake-news-came-false-prophecy/511700/).
 
-Higgins, Andrew, Mike McIntire, and Gabriel J.x. Dance. 2016. Inside a Fake News Sausage Factory: ‘This Is All About Income.’ *The New York Times* (November 25). [URL](https://www.nytimes.com/2016/11/25/world/europe/fake-news-donald-trump-hillary-clinton-georgia.html). 
+Higgins, Andrew, Mike McIntire, and Gabriel J.x. Dance. 2016. Inside a Fake News Sausage Factory: ‘This Is All About Income.’ *The New York Times* (November 25). [URL](https://www.nytimes.com/2016/11/25/world/europe/fake-news-donald-trump-hillary-clinton-georgia.html).
 
 Temming, Maria. 2018. People are bad at spotting fake news. Can computer programs do better? _Science News_ (July 26). [URL](https://www.sciencenews.org/article/can-computer-programs-flag-fake-news).
 
@@ -106,11 +106,9 @@ In this section of the course, we use Python tools to identify pages that provid
 
 ### Analysis
 
-Brady, William J., Ana P. Gantman, and Jay J. Van Bavel. 2019. Attentional Capture Helps Explain Why Moral and Emotional Content Go Viral. _PsyArXiv_  January 15. doi:10.31234/osf.io/zgd29. 
+Brady, William J., Ana P. Gantman, and Jay J. Van Bavel. 2019. Attentional Capture Helps Explain Why Moral and Emotional Content Go Viral. _PsyArXiv_  January 15. doi:10.31234/osf.io/zgd29.
 
 And here is the study as it appeared in _Scientific American_:
 
-Gantman, Ana P. , William J. Brady, Jay Van Bavel. 2019. Why Moral Emotions Go Viral Online: 
+Gantman, Ana P. , William J. Brady, Jay Van Bavel. 2019. Why Moral Emotions Go Viral Online:
 A study of Twitter demonstrates the attentional power of certain words. _Scientific American_ (August 20). [URL](https://www.scientificamerican.com/article/why-moral-emotions-go-viral-online/).
-
-

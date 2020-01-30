@@ -1,5 +1,7 @@
 # Introduction to Text Analytics
 
+##### John Laudun
+
 ## Course Design & Goals
 
 Of the many dimensions that computation can address, perhaps one of the most difficult is the task of dealing with how humans actually use language. While a great deal can be gleaned from a variety of bounded events and actions--for example, by limiting the possible responses to a question, much more can be learned when we allow humans to produce the texts they wish to produce and then we as analysts set about finding better ways to understand them.
