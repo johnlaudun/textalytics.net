@@ -2,32 +2,6 @@
 
 The handbooks and guides available to help a writer struggling with one facet or another of writing are almost innumerable at this point. Do not hesitate to search for a particular problem if you can name it. What follows here is a compilation of the basics that I have found most useful in working with students who are, in turn, working on their writing. Use what's useful. Ignore the rest.
 
-## Table of Contents
-
-  * [Overview](#overview)
-  * [Building Blocks](#building-blocks)
-
-    ​	[Sentences](#sentences)
-
-    ​		[Types of Clauses](#types-of-clauses)
-
-    ​		[Types of Sentences](#types-of-sentences)
-  * [Paragraphs](#paragraphs)
-
-    ​	[A Step-by-Step Guide to Writing a Paragraph in an Analytical Work](#a-step-by-step-guide-to-writing-a-paragraph-in-an-analytical-work)
-
-    ​	[Step 1: Decide the Topic of Your Paragraph](#step-1--decide-the-topic-of-your-paragraph)
-
-    - [Step 2: Develop a Topic Sentence](#step-2--develop-a-topic-sentence)
-    - [Step 3: Demonstrate Your Point](#step-3--demonstrate-your-point)
-    - [Step 4: Give Your Paragraph Meaning](#step-4--give-your-paragraph-meaning)
-    - [Step 5: Conclude](#step-5--conclude)
-    - [Step 6: Read and Revise](#step-6--read-and-revise)
-
-    + [Introductory Paragraphs](#introductory-paragraphs)
-      - [Defining a Term](#defining-a-term)
-      - [Sketching a Scene](#sketching-a-scene)
-
 ## Overview
 
 While the subjects you encounter in my classes may be literature or folklore or even just raw data, my goal is to teach you to gather data into information and to process information into knowledge. And then to communicate that knowledge to others. In most cases, writing is part of the process or the end result of the process, the product. 
@@ -141,9 +115,35 @@ Second, they often link the current paragraph to the following paragraph. They m
 
 The last step in good paragraph writing is proofreading and revision. Before you submit your writing, look over your work at least one more time. Try reading your paragraph outloud to make sure it makes sense. Also, ask yourself these questions: Does my paragraph answer the prompt and support my thesis? Does it make sense? Does it use the appropriate academic voice?
 
-### Introductory Paragraphs
+## Paragraph Says/Does
 
-#### Defining a Term
+There are a variety of ways to take texts apart, to analyze them, in order to understand how the parts fit together. A good summary must represent all the parts of a text. In a non-fiction text, like a work of scholarship or science, you want to look closely at each paragraph to understand how the author is building his/her argument.
+
+Think of each paragraph as a stepping stone through a large field: there are possibly a number of ways to get from where you start to where you end, but the author has chosen this particular path. The path is nothing more than each step the text takes and a paragraph, for the time being is a step.
+
+*Nota bene*: We can do the same for sentences within a paragraph, but that kind of "zoomed-in" analysis we will do elsewhere. For now, we will stay at a slightly higher level, "zoomed out" if you will -- this scaling, zooming in and out, of analysis is very useful for compartmentalizing the work we do in analysis.
+
+The easiest way to do a *says/does* analysis is to make the process simple and clear:
+
+1. Draw a vertical line down the middle of a piece of paper -- or make a table in a word processing document -- creating two columns. On the left is the *says* column; on the right, *does*.
+2. Write a phrase of sentence in the left column to summarize the key point of the paragraph. On the right, describe what the paragraph does for the reader: introduce a new point, expand the point of the previous paragraph, describe a particular moment, provide some historical background. The *does* descriptor cannot mention any content in the paragraph.
+
+Usually when I do this in a course, I will divide people into groups and have each group work with a chunk of paragraphs. We then assemble a summary, using the lefthand entries as the content and the righthand entries as means to weigh their importance.
+
+More importantly, writers can use this method of analyzing texts to assess their own: be clear on what each paragraph is doing, because if the writer isn't clear, the reader certainly won't be.
+
+## Examples
+
+| ¶    | SAYS                                                         | DOES                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | That the writer is going to the laundry room and will be there for a while. | Sets the scene both physically or emotionally.               |
+| 2    | that the writer puts clothes in the washing machine and thinks about her boyfriend | prepares the reader for alternate description of activities and reflection |
+| 3    | that the writer would like to be swept offer her feet by someone rich and handsome | makes a bit of fun of the writer's reflections; shows that she doesn't take herself too seriously |
+| 4    | the writer continues with doing what she has to do to get the laundry done but is interrupted (and embarrassed) by someone she doesn't like and by someone who gives her a chalce to reflect amusingly on male behavior | describes the actual world the writer is in and shows how she reacts to it |
+
+## Introductory Paragraphs
+
+### Defining a Term
 
 In his introduction to his essay on "Tradition," Henry Glassie establishes that defining a term need not term to external source but can be conjured out of what he and his audience already know and believe to be neccesarily true:
 
@@ -160,7 +160,7 @@ My own introductory paragraph, like Glassie's above, seeks to suggest an intelle
 
 > “Talking shit” is a venerable tradition in many African American speech communities. As an umbrella term, it typically covers only a particular portfolio of genres, both in day-to-day as well as in analytical uses. In performance, individual speakers deploy forms that are largely made up of reported speech, reflecting an understanding of authorship as diffused in the space of the fictive present as well as across performances reaching back to the historical past. A close examination of the forms involved in fact reveals that not only are texts generated, variously, in dialogue but that they are constructed of dialogue as well, creating a continuum across semantic and pragmatic domains which speakers use to great effect. This study, located in a small south Louisiana town, highlights the flexible nature of the genres involved, allowing speakers to move into and out of the performance frame, which is itself sometimes considered a dimension of the performance.
 
-#### Sketching a Scene
+### Sketching a Scene
 
 Dropping your reader into the middle of a scene that dramatizes some aspect of what you are about to analyze is another way to write an introduction.
 
@@ -175,3 +175,41 @@ Bauman, Richard. 1972. The La Have Island General Store: Sociability and Verbal 
 Glassie, Henry. 1995. Tradition.  _Journal of American Folklore_ 108(430): 395-412. doi: 10.2307/541653.
 
 Wu, Yung-Hsing. 2010. The Magical Matter of Books: Amazon.com and The Tales of Beedle the Bard. _Children's Literature Association Quarterly_ 35/2: 190-207. https://www.muse.jhu.edu/article/381187.
+
+## Summaries
+
+While you may view summaries as exercises performed strictly for the satisfaction of your instructor, the fact is that summaries are singularly useful reports that you write to yourself. You write a summary of a text so that you don't have to read a text again later, when you are either being examined or when you are writing your own analysis. Some things to keep in mind as you write a summary:
+
+- Be clear on the purpose for the summary: what do you need it to do?
+- As you read, or better re-read, mark sentences that seem to present the "big picture" or the "gist" or "the point."
+- What are the text's main ideas? Sometimes, oh sometimes, the text does not necessarily make its main ideas clear: you will have to extrapolate. The good news is that such extrapolations will necessarily be in your own words, i.e. paraphrased.
+- Analyze the part of the text in relation to the whole -- when it comes to non-fiction texts, *says-does* analyses can be useful here. (See § Says-Does above.) Be sure your assessment of what is important is what the text itself is signaling as important. (And if the text says one thing and does another, that is worth describing.)
+- Just as importantly, sometimes what's important to you is different from what is important to the text. Be sure to note your own *takeaways*.
+- Be objective! Injecting your opinion is not useful to you later. A summary is a report that attempts to be as true to the original text as possible.
+
+## Thesis Statements
+
+Most readers of essays look for a one or two-sentence condensation of the argument or analysis early in the text: first, because they want to know in what they are about to invest their time, and, second, they want a clear idea of the perspective or line of inquiry or argument the essay is going to pursue so that they can evaluate the text for its own consistency as well as understand how it relates to their own point of view or sensibility.
+
+From a writer's point of view, such a condensation, aka a thesis statement, allows you distill your ideas down, forcing you to clarify for yourself what your essay is about. It also allows you to better organize your text. 
+
+In general, a thesis statement will accomplish these goals, of both readers and writers, if it answers a question that:
+
+-  tackles a subject upon which reasonable people could disagree,
+- deals with a subject that can be adequately treated within the scope of the essay,
+- can be expressed as a single idea---though you can think of this idea as being a main clause within a complex sentence that has subordinate ideas attached to it, 
+- allows the possibility for a conclusion to be proffered. 
+
+Use these four points not only to develop a thesis statement but also to test it. As you work, you will find that an iterative process includes the following steps:
+
+- You begin with a **topic**, which can often be described with a sentence fragment: e.g., artificial intelligence.
+- Then you narrow the topic into a **hypothesis**, which still might rather fragmentary: e.g., growth of artificial intelligence industries. Such a simple narrowing, by expanding the number of qualifications reduces the number of possibilities. We're not talking about AI in general but AI as an industry, and an emergent or expanding industry at that. 
+- Then you take a position and offer your reader a **thesis**. This can be simple, like "The growth of the artificial intelligence industries threatens humanity", or it can be something more complex, "With the growth of artificial intelligence industries, many white collar jobs could be automated in the near future." But notice how the simpler thesis is actually weaker than the more complex one. What's the difference? Specificity. The simpler thesis doesn't tell us how the growth of AI industries threaten humanity. How would you revise it to make it more specific? 
+
+Stronger thesis statements:
+
+- take some sort of stand: they offer a position from which to understand the subject being discussed;
+
+- justify discussion--e.g., "My family is an extended family." versus "While most American families would view consanguineal marriage as a threat to the nuclear family structure, many Iranian families, like my own, believe these marriages help reinforce kinship ties in an extended family.";
+- express one main idea, avoiding having readers confused about what they are about;
+- are specific, making it clear what the essay will be about and making it easy for you as a writer to guarantee that the topic and scope are manageable.

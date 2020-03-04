@@ -16,15 +16,14 @@ nav:
         - The Spread of (Mis)Information: c400-infospread.md
         - What We Think When We Think about Machine Thinking: c300-ai.md
     - Guides:
+        - A (Kind of) Writing Handbook: guides/writing.md
         - Accessing databases: guides/access.md
         - Chicago Author-Date Citations: guides/cad.md
         - Essentials: guides/essentials.md
         - Interview Tips: guides/interview_tips.md
         - On Notes and Notetaking: guides/noted.md
-        - Says/Does: guides/says_does.md
-        - Writing a Summary: guides/summaries.md
         - Recording Hardware and Software: guides/recording.md
-        - A (Kind of) Writing Handbook: guides/writing.md
+
 
 theme:
     name: null
