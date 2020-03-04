@@ -21,11 +21,10 @@ nav:
         - Essentials: guides/essentials.md
         - Interview Tips: guides/interview_tips.md
         - On Notes and Notetaking: guides/noted.md
-        - Paragraphs: guides/paragraphs.md
         - Says/Does: guides/says_does.md
         - Writing a Summary: guides/summaries.md
         - Recording Hardware and Software: guides/recording.md
-        - Writing Help: guides/writing.md
+        - A (Kind of) Writing Handbook: guides/writing.md
 
 theme:
     name: null
