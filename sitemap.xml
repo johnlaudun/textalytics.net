@@ -46,6 +46,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>http://textalytics.net/guides/writing/</loc>
+     <lastmod>2020-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>http://textalytics.net/guides/access/</loc>
      <lastmod>2020-03-03</lastmod>
      <changefreq>daily</changefreq>
@@ -71,22 +76,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>http://textalytics.net/guides/recording/</loc>
-     <lastmod>2020-03-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://textalytics.net/guides/writing/</loc>
      <lastmod>2020-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
