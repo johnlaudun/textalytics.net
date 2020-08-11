@@ -4,12 +4,13 @@ site_url: http://textalytics.net/
 nav:
     - Home: index.md
     - Courses:
-        - 115: 115.md
-        - 332: 332.md
+        - 115 - Freshman Honors: 115.md
+        - 332 - Introduction to Folklore: 332.md
+        - 334 - Digital Folklore and Culture: 334.md
         # - 335: 335.md
-        - 432: 432.md
-        - 531: 531.md
-        - 632: 632.md
+        - 432 - America in Legend: 432.md
+        - 531 - Seminar in Narrative Studies: 531.md
+        - 632 - Proseminar in Folklore Theory: 632.md
         # - Digital Humanities: dh.md
     - Courses I Would Like to Teach:
         - Introduction to Text Analytics: c200-textanayltics.md
