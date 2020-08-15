@@ -9,7 +9,7 @@ This separate, dedicated teaching site is designed so that students can access t
 
 * [English 115](115.md): Honors Academic Writing
 * [English 332](332.md): Introduction to Folk Narrative
-* [English 334](332.md): Digital Folklore and Culture
+* [English 334](334.md): Digital Folklore and Culture
 <!-- * [English 335](335/index.md): Louisiana Folklore -->
 * [English 432](432.md): America in Legend Online and Off
 * [English 531](531.md): Seminar in Narrative Studies
