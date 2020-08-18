@@ -125,7 +125,7 @@ blockquote {
 
 ul, ol {
     margin: 10px 0 10px 30px;
-    padding: 0;
+    padding: 2em;
 }
 
 pre {
